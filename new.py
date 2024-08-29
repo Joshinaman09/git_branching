@@ -18,3 +18,9 @@ def func_b(b,c):
         print(b)
     else:
         print(c)
+
+def func_c(c,d):
+    if c == d:
+        print(d)
+    else:
+        print(c)
