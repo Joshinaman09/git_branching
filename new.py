@@ -12,3 +12,9 @@ def func_a(a,b):
         print('File')
     else:
         print('No')
+
+def func_b(b,c):
+    if b == c:
+        print(b)
+    else:
+        print(c)
