@@ -4,3 +4,5 @@ def func_b(b,c):
         print(b)
     else:
         print(c)
+
+print('new feature added')
