@@ -5,4 +5,4 @@ Now we have a total of 4 branches including 2 feature branches one git branch an
 up stream is the remote branch we create in the git repo and down stream is from the locsl terminal
 in this way we push n pull the branches in github.
 
-We can commit both from the upstream and from the downstream the only difference which is created is that we need to directly commit in the upstream using UI whereas in downstream we need to manaually commit using the commands like(push,pull,commit etc)
+We can commit both from the upstream and from the downstream the only difference which is created is that we need to directly commit in the upstream using UI whereas in downstream we need to manually commit using the commands like(push,pull,commit etc)
