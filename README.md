@@ -1,4 +1,4 @@
-how branching is done creation of different branches with merging them to the main branch
+How Branching Is Done Creation Of Different Branches With Merging Them To The Main Branch
 There are different commands through which we can add file and commit them using git commands
 
 Now we have a total of 4 branches including 2 feature branches one git branch and one bug fix branch in this way we merge with the main branch and push the branches to the upstream from downstream
