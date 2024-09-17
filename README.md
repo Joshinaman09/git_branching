@@ -6,3 +6,7 @@
 5.In this way we push n pull the branches in github.
 
 6.We can commit both from the upstream and from the downstream the only difference which is created is that we need to directly commit in the upstream using UI whereas in downstream we need to manaually commit using the commands like(push,pull,commit etc)
+Select the Restricted check box to  prevent your users from accessing anything outside of their home directory.
+This also prevents users from seeing the Amazon S3 bucket name or folder name.
+For SSH public Key , enter the public SSH key portion of the SSH Key pair in ssh-rsa format.
+Your key must be validated by the service before you can add your new user .
