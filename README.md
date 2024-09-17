@@ -10,3 +10,7 @@ Select the Restricted check box to  prevent your users from accessing anything o
 This also prevents users from seeing the Amazon S3 bucket name or folder name.
 For SSH public Key , enter the public SSH key portion of the SSH Key pair in ssh-rsa format.
 Your key must be validated by the service before you can add your new user .
+AWS Transfer Family is a secure transfer service that enables you to tranfer files into and out of AWS storage services.
+
+The following are some common use cases for using AWS:
+Data lakes in AWS for using
