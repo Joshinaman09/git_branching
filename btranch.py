@@ -134,3 +134,11 @@ def onboard_user(user_name, admin_email):
 
 # Example usage
 onboard_user("new_vendor_user", "admin@yourcompany.com")
+
+def set_fsx_permissions(user_name):
+    f"/fsx/{user_name}"
+    
+    mount_command = "sudo mount -t nfs4 fs -xxxxxxxx.efs.aws-region.amazonaws.com: / /fsx"
+    subprocess.run(mount_command , shell=True)
+
+        
